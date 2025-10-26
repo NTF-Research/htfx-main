@@ -1,0 +1,15 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/NTF-Research/htfx-framework.git
+[submodule "data"]
+	path = data
+	url = https://github.com/NTF-Research/htfx-data.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/NTF-Research/htfx-utils.git
+[submodule "console"]
+	path = console
+	url = https://github.com/NTF-Research/htfx-demo-console.git
+[submodule "web"]
+	path = web
+	url = https://github.com/NTF-Research/htfx-demo-web.git
